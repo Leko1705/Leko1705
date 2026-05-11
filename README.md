@@ -1,7 +1,6 @@
 # Hi there 👋
 
-I'm **[Your Name]**, a [Your Role] at [Your Company/Organization].  
-[Short description of what you do — e.g., "I build scalable web applications and love open source."]
+I'm **Lennart**, a Computer Science Student.
 
 ---
 
