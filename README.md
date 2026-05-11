@@ -1,4 +1,4 @@
-# Hi there 👋
+### Hi there 👋
 
 **I'm a Computer Science Student, who loves coding. My interests currently lie in topics of Agentic Workflows, Compiler technology and Software Egineering.**
 
