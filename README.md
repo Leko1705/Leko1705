@@ -75,7 +75,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Leko1705&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Leko1705&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Leko1705&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
