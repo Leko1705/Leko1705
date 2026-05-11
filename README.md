@@ -1,6 +1,6 @@
 # Hi there 👋
 
-**I'm a Computer Science Student, who loves coding. My interests currently lie in topics like Agentic Workflows, Compiler technology and Sowtware Egineering.**
+**I'm a Computer Science Student, who loves coding. My interests currently lie in topics of Agentic Workflows, Compiler technology and Sowtware Egineering.**
 
 ---
 
